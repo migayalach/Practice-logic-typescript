@@ -113,7 +113,6 @@ function orden(array) {
 const array = fillArray(9);
 console.log(array);
 console.log(orden(array));
-
 console.log(orden([2,7,9,4,3,2]));
 console.log(orden([1,2,3,5,7]));
 console.log(orden([1,2,3,5,6]));
